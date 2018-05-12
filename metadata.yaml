@@ -24,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3672
     wikipedia: http://en.wikipedia.org/wiki/Gaston_Maspero
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14400#Manual-of-Egyptian-Archaeology-and-Guide-to-the-Study-of-Antiquities-in-Egypt
 gutenberg_bookshelf:
 - Children's History
 - Egypt
